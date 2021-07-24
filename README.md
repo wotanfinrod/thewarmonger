@@ -1,4 +1,4 @@
-The Warmonger
+## The Warmonger
 
 The Warmonger is a text - based mini strategy game. It includes implementations of fundamental data structures and basic OOP techniques such as inheritance and abstract classes.
 
